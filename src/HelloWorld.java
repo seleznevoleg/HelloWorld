@@ -12,7 +12,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         //вызов подсказки - Ctrl+Space; параметры, кооторые принимает метод -  Ctrl+P; подсказки - Ctrl+Q
-        System.out.println("Hello world!");
+        System.out.println("Hello world! See ya!");
         //single line comment
     /*
     multi line comment
